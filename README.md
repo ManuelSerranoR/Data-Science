@@ -1,2 +1,2 @@
 # Data-Science
-All material associated with Data Science course at New York University.
+This repository contains all homeworks associated with the course Introduction to Data Science, at New York University, Center for Data Science.
